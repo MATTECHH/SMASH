@@ -58,6 +58,7 @@ npm install
 4️⃣ Execute o projeto
 npm run dev
 📱 Integração com WhatsApp
+```
 
 👨‍💻 Autor
 Desenvolvido por Mateus 🚀
