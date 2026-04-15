@@ -37,7 +37,6 @@ A aplicação apresenta:
 
 ## 📂 Estrutura do Projeto
 
-
 src/
 │
 ├── assets/ # Imagens
