@@ -47,9 +47,6 @@ src/
 ├── styles/ # Estilos (CSS/Tailwind)
 └── App.jsx
 
-
----
-
 ## 📦 Como Rodar o Projeto
 
 ### 1️⃣ Clone o repositório
@@ -63,24 +60,8 @@ npm install
 npm run dev
 📱 Integração com WhatsApp
 
-Os pedidos são feitos diretamente via link:
-
-https://wa.me/SEU_NUMERO?text=Quero%20fazer%20um%20pedido
-💡 Melhorias Futuras
-🛒 Sistema de carrinho
-💳 Integração com pagamento online
-🌐 Backend com API
-🔐 Autenticação de usuários
-📊 Dashboard administrativo
 👨‍💻 Autor
-
 Desenvolvido por Mateus 🚀
 
 📄 Licença
-
 Este projeto está sob a licença MIT.
-
-
----
-
-Se quiser, posso te ajudar a transformar isso em um **projeto fullstack com pedidos reais (Node + banco + painel admin)** ou até subir em produção com domínio e deploy 😎****
