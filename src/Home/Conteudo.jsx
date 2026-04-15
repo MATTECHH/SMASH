@@ -1,14 +1,14 @@
 import React from "react";
 
 /* Imagem do hamburguer principal hero*/
-import Burguer from "../../assets/amirali-mirhashemian-sc5sTPMrVfk-unsplash.jpg";
-import Burguer1 from "../../assets/amirali-mirhashemian-88YAXjnpvrM-unsplash.jpg";
-import Burguer2 from "../../assets/mike-PxJ9zkM2wdA-unsplash.jpg";
-import Burguer3 from "../../assets/amirali-mirhashemian-jh5XyK4Rr3Y-unsplash.jpg";
-import Burguer4 from "../../assets/ilya-mashkov-_qxbJUr9RqI-unsplash.jpg";
-import Batata from "../../assets/Batata-frita-com-cheddar-e-bacon-Receita-softpig.jpg";
-import Milk from "../../assets/sara-cervera-xB0Kr0D0C8Y-unsplash.jpg";
-import Sobre from "../../assets/alexander-startsev-ndNw_6QGR_c-unsplash.jpg";
+import Burguer from "../assets/amirali-mirhashemian-sc5sTPMrVfk-unsplash.jpg";
+import Burguer1 from "../assets/amirali-mirhashemian-88YAXjnpvrM-unsplash.jpg";
+import Burguer2 from "../assets/mike-PxJ9zkM2wdA-unsplash.jpg";
+import Burguer3 from "../assets/amirali-mirhashemian-jh5XyK4Rr3Y-unsplash.jpg";
+import Burguer4 from "../assets/ilya-mashkov-_qxbJUr9RqI-unsplash.jpg";
+import Batata from "../assets/Batata-frita-com-cheddar-e-bacon-Receita-softpig.jpg";
+import Milk from "../assets/sara-cervera-xB0Kr0D0C8Y-unsplash.jpg";
+import Sobre from "../assets/alexander-startsev-ndNw_6QGR_c-unsplash.jpg";
 
 const Conteudo = () => {
     return (
