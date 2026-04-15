@@ -1,4 +1,4 @@
-# 🍔 DarkSmash
+# 🍔 Smash
 
 Landing page moderna para hamburgueria, desenvolvida com React, focada em performance, design e conversão de pedidos via WhatsApp.
 
@@ -8,7 +8,6 @@ Landing page moderna para hamburgueria, desenvolvida com React, focada em perfor
 
 - ⚛️ React
 - 🎨 CSS / Tailwind (ou CSS customizado)
-- 📱 Responsividade (Mobile First)
 - 🔗 Integração com WhatsApp
 
 ---
@@ -34,30 +33,6 @@ A aplicação apresenta:
 - ✔️ Destaque para produtos mais vendidos
 
 ---
-
-## 📂 Estrutura do Projeto
-
-src/
-│
-├── assets/ # Imagens
-├── components/ # Componentes React
-│ └── Conteudo.jsx
-├── styles/ # Estilos (CSS/Tailwind)
-└── App.jsx
-
-## 📦 Como Rodar o Projeto
-
-### 1️⃣ Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/darksmash.git
-2️⃣ Acesse a pasta
-cd darksmash
-3️⃣ Instale as dependências
-npm install
-4️⃣ Execute o projeto
-npm run dev
-📱 Integração com WhatsApp
-```
 
 👨‍💻 Autor
 Desenvolvido por Mateus 🚀
