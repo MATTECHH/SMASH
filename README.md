@@ -34,8 +34,8 @@ A aplicação apresenta:
 
 ---
 
-👨‍💻 **Autor**
+👨‍💻 **Autor:**
 Desenvolvido por Mateus 🚀
 
-📄 **Licença**
+📄 **Licença:**
 Este projeto está sob a licença MIT.
