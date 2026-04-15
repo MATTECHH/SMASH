@@ -1,5 +1,5 @@
 # 🍔 Smash
-
+https://mattechh.github.io/SMASH/
 Landing page moderna para hamburgueria, desenvolvida com React, focada em performance, design e conversão de pedidos via WhatsApp.
 
 ---
