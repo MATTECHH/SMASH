@@ -1,41 +1,36 @@
 # 🍔 Smash
-https://mattechh.github.io/SMASH/
-Landing page moderna para hamburgueria, desenvolvida com React, focada em performance, design e conversão de pedidos via WhatsApp.
+
+Landing page moderna para hamburgueria, focada em **design, performance e pedidos via WhatsApp** 📲
+
+🔗 https://mattechh.github.io/SMASH/
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias
 
-- ⚛️ React
-- 🎨 CSS / Tailwind (ou CSS customizado)
-- 🔗 Integração com WhatsApp
-
----
-
-## 📸 Preview
-
-A aplicação apresenta:
-
-- 🏠 Seção Hero com destaque principal
-- 🍔 Cardápio interativo com produtos
-- 📖 Seção "Sobre" com história da marca
-- 📞 Área de contato e redes sociais
-- ⚡ Botões de ação para pedidos rápidos
+* React
+* TailwindCSS / CSS
+* Integração com WhatsApp
 
 ---
 
 ## 🎯 Funcionalidades
 
-- ✔️ Navegação suave entre seções
-- ✔️ Botões de pedido direto via WhatsApp
-- ✔️ Layout responsivo
-- ✔️ Imagens otimizadas com lazy loading
-- ✔️ Destaque para produtos mais vendidos
+* 🍔 Cardápio interativo
+* 📲 Pedido direto via WhatsApp
+* 📱 Layout responsivo
+* ⚡ Navegação suave e rápida
 
 ---
 
-👨‍💻 **Autor:**
-Desenvolvido por Mateus 🚀
+## 🛠️ Rodar o projeto
 
-📄 **Licença:**
-Este projeto está sob a licença MIT.
+```bash
+git clone https://github.com/mattechh/SMASH.git
+cd SMASH
+npm install
+npm run dev
+```
+
+## 👨‍💻 Autor
+Mateus Monteiro Ramos 🚀
