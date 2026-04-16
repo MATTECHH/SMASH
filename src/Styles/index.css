@@ -46,7 +46,7 @@
         align-items: center;
         justify-content: space-between;
         padding: 15px 5%;
-        background-color: var(--light);
+        background-color: #ffffff80;
         box-shadow: var(--shadow);
         z-index: 99;
     }

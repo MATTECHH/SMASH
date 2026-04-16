@@ -17,7 +17,7 @@ const Conteudo = () => {
                 <a href="#" className="logo" rel="noopener noreferrer" title="DarkSmash">🍔 DarkSmash</a>
 
             <nav >
-                <ul className="flex gap-7" >
+                <ul className="flex gap-8 mr-30" >
                     <li> <a href="#" className="font-bold hover:text-amber-600">Inicio</a></li>
                     <li><a href="#cardapio" className="font-bold hover:text-amber-600">Cardapio</a></li>
                     <li><a href="#sobre" className="font-bold hover:text-amber-600">Sobre</a></li>
